@@ -17,14 +17,6 @@
             "class": "naruto"
         },
         {
-            "title": "Dragon Ball Z",
-            "info": "Dragon Ball Z follows the adventures of the adult Goku who, along with his companions, defends the earth against an assortment of villains ranging from intergalactic space fighters and conquerors, unnaturally powerful androids and near indestructible magical creatures.",
-            "genre": "Adventure, Fantasy, Martial Arts",
-            "rating": "4.5/5",
-            "img": "https://wallpapercave.com/wp/DtTTHzM.jpg",
-            "class": "ballZ"
-        },
-        {
             "title": "One Punch Man",
             "info": "It tells the story of Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge in his fight against evil.",
             "genre": "Action, comedy, superhero",
@@ -39,6 +31,14 @@
             "rating": "4.5/5",
             "img": "http://getwallpapers.com/wallpaper/full/8/6/e/1411666-amazing-boku-no-hero-academia-wallpapers-1920x1080-macbook.jpg",
             "class": "mha"
+        },
+        {
+            "title": "Dragon Ball Z",
+            "info": "Dragon Ball Z follows the adventures of the adult Goku who, along with his companions, defends the earth against an assortment of villains ranging from intergalactic space fighters and conquerors, unnaturally powerful androids and near indestructible magical creatures.",
+            "genre": "Adventure, Fantasy, Martial Arts",
+            "rating": "4.5/5",
+            "img": "https://wallpapercave.com/wp/DtTTHzM.jpg",
+            "class": "ballZ"
         },
         {
             "title": "Death Note",

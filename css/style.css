@@ -209,12 +209,19 @@ img {
     background-image: linear-gradient(rgb(60, 189, 0), rgb(78, 255, 167));
 }
 
+/* Dragon Ball Z */
+
+.ballZ {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 217, 0), rgb(230, 0, 0));
+    box-shadow: inset 0 0 3em #111;
+}
+
 /* Death Note */
 
 .death-note {
     padding: 2rem;
     background-image: linear-gradient(rgb(70, 70, 70), rgb(255, 255, 255));
-    box-shadow: inset 0 0 3em #111;
 }
 
 /* Fullmetal Alchemist */
@@ -222,6 +229,7 @@ img {
 .brotherhood {
     padding: 2rem;
     background-image: linear-gradient(rgb(126, 113, 1), rgb(229, 255, 0));
+    box-shadow: inset 0 0 3em #111;
 }
 
 /* AOT */
@@ -229,7 +237,6 @@ img {
 .aot {
     padding: 2rem;
     background-image: linear-gradient(rgb(116, 70, 0), rgb(248, 120, 0));
-    box-shadow: inset 0 0 3em #111;
 }
 
 /* MOB */
@@ -237,6 +244,7 @@ img {
 .mob {
     padding: 2rem;
     background-image: linear-gradient(rgb(0, 255, 234), rgb(0, 252, 134));
+    box-shadow: inset 0 0 3em #111;
 }
 
 /* Haikyu!! */
@@ -244,7 +252,6 @@ img {
 .haikyu {
     padding: 2rem;
     background-image: linear-gradient(rgb(255, 123, 0), rgb(0, 0, 0));
-    box-shadow: inset 0 0 3em #111;
 }
 
 /* Tokyo Ghoul */
@@ -252,6 +259,7 @@ img {
 .ghoul {
     padding: 2rem;
     background-image: linear-gradient(rgb(95, 95, 95), rgb(0, 0, 0));
+    box-shadow: inset 0 0 3em #111;
 }
 
 /* Demon Slayor */
@@ -259,10 +267,222 @@ img {
 .slayor {
     padding: 2rem;
     background-image: linear-gradient(rgb(0, 255, 234), rgb(0, 110, 255));
-    box-shadow: inset 0 0 3em #111;
 }
+
+/* That Time I Got Reincarnated As A Slime */
 
 .slime {
     padding: 2rem;
     background-image: linear-gradient(rgb(0, 255, 234), rgb(0, 183, 255));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* The Promise Neverland */
+
+.neverland {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(235, 245, 200), rgb(204, 184, 0));
+}
+
+/* Erased */
+
+.erased {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 157), rgb(255, 0, 0));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* The Seven Deadly Sins */
+
+.sins {
+    padding: 2rem;
+    background-image: linear-gradient( rgb(255, 238, 3), rgb(255, 0, 0));
+}
+
+/* Hunter X Hunter */
+
+.hxh {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(57, 179, 0), rgb(0, 0, 0));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Black Clover */
+
+.clover {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(0, 0, 0));
+}
+
+/* Stiens;Gate */
+
+.gate {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(0, 0, 0));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Bleach */
+
+.bleach {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(250, 250, 250), rgb(255, 123, 0));
+}
+
+/* Vinland Saga */
+
+.saga {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(251, 255, 0));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Assassination Classroom */
+
+.classroom {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(238, 255, 0), rgb(0, 247, 255));
+}
+
+/* The Disastrous Life Of Saikik */
+
+.saikik {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 242), rgb(160, 0, 75));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Devilman Crybaby */
+
+.devilman {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(0, 0, 0));
+}
+
+/* Fate/Zero */
+
+.fate {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(255, 77, 136));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Spirited Away */
+
+.spirit {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(9, 255, 0));
+}
+
+/* Baki */
+
+.baki {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(71, 23, 0));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Kengan Ashura */
+
+.kengan {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(201, 0, 0));
+}
+
+/* Goblin Slayer */
+
+.goblin {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(46, 51, 51), rgb(255, 0, 0));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Great Pretender */
+
+.pretender {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(217, 255, 0), rgb(255, 0, 0));
+}
+
+/* Fairy Tail */
+
+.fairy {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(255, 174, 0));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Toradora! */
+
+.toradora {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(0, 60, 255));
+}
+
+/* Teasing Master Takagai-san */
+
+.takagai {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(0, 255, 234), rgb(0, 60, 255));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* A Silent Voice */
+
+.voice {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(0, 255, 234), rgb(225, 0, 255));
+}
+
+/* Your Name */
+
+.name {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(0, 145, 170), rgb(150, 0, 180));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* The Whisker Away */
+
+.whisker {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(0, 110, 255));
+}
+
+/* Sword Art Online */
+
+.sao {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(0, 255, 234), rgb(0, 24, 56));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* High School DXD */
+
+.dxd {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(251, 255, 0), rgb(253, 0, 0));
+}
+
+/* Japan Sink */
+
+.sink {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(39, 131, 123), rgb(19, 66, 128));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* 7 Seeds */
+
+.seeds {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(38, 228, 0), rgb(0, 97, 48));
+}
+
+/* Akame Ga Kill */
+
+.gaKill {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(46, 2, 2));
+    box-shadow: inset 0 0 3em #111;
 }
