@@ -5,7 +5,7 @@
             "info": "A masterpiece from Echiro Oda. The story follows the adventures of pirate named Monkey D. Luffy. With his crew of pirates, named the Straw Hat Pirates, Luffy explores the Grand Line in search of the world's ultimate treasure known as One Piece in order to become the next King of the Pirates.",
             "genre": "Adventure, fantasy",
             "rating": "4.9/5",
-            "img": "img/one-piece.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/d/9/0/1486267-full-size-one-piece-wallpaper-1920x1080-1920x1080-laptop.jpg",
             "class": "one-piece"
         },
         {
@@ -13,15 +13,23 @@
             "info": "the story of Naruto Uzumaki, a young ninja who seeks to gain recognition from his peers and also dreams of becoming the Hokage, the leader of his village.",
             "genre": "Adventure, fantasy, martial arts",
             "rating": "4.8/5",
-            "img": "img/naruto.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/9/8/c/323145.jpg",
             "class": "naruto"
+        },
+        {
+            "title": "Dragon Ball Z",
+            "info": "Dragon Ball Z follows the adventures of the adult Goku who, along with his companions, defends the earth against an assortment of villains ranging from intergalactic space fighters and conquerors, unnaturally powerful androids and near indestructible magical creatures.",
+            "genre": "Adventure, Fantasy, Martial Arts",
+            "rating": "4.5/5",
+            "img": "https://wallpapercave.com/wp/DtTTHzM.jpg",
+            "class": "ballZ"
         },
         {
             "title": "One Punch Man",
             "info": "It tells the story of Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge in his fight against evil.",
             "genre": "Action, comedy, superhero",
             "rating": "4.5/5",
-            "img": "img/one-punch-man.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/a/b/4/11460.jpg",
             "class": "one-punch-man"
         },
         {
@@ -29,7 +37,7 @@
             "info": "The story follows Izuku Midoriya, a boy born without superpowers (called Quirks) in a world where they have become commonplace, but who still dreams of becoming a hero himself. He is scouted by All Might, Japan's greatest hero, who shares his quirk with Midoriya after recognizing his potential, and later helps to enroll him in a prestigious high school for heroes in training.",
             "genre": "Adventure, fantasy, superhero",
             "rating": "4.5/5",
-            "img": "img/MHA.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/8/6/e/1411666-amazing-boku-no-hero-academia-wallpapers-1920x1080-macbook.jpg",
             "class": "mha"
         },
         {
@@ -37,7 +45,7 @@
             "info": "The story follows Light Yagami, a teen genius who stumbles across a mysterious otherworldly notebook: the Death Note, that grants the user the supernatural ability to kill anyone whose name is written in its pages.",
             "genre": "Mystery, psychological thriller, supernatural",
             "rating": "4.6/5",
-            "img": "img/death-note.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/4/9/0/137344.jpg",
             "class": "death-note"
         },
         {
@@ -45,7 +53,7 @@
             "info": "the series follows the adventures of two alchemist brothers named Edward and Alphonse Elric, who are searching for the philosopher's stone to restore their bodies after a failed attempt to bring their mother back to life using alchemy.",
             "genre": "Adventure, dark fantasy, steampunk",
             "rating": "4.5/5",
-            "img": "img/brotherhood.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/0/9/f/295839.jpg",
             "class": "brotherhood"
         },
         {
@@ -53,7 +61,7 @@
             "info": "It is set in a fantasy world where humanity lives within territories surrounded by three enormous walls that protect them from gigantic man-eating humanoids referred to as Titans.",
             "genre": "Action, apocalyptic",
             "rating": "4.0/5",
-            "img": "img/aot.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/2/9/9/95262.jpg",
             "class": "aot"
         },
         {
@@ -61,7 +69,7 @@
             "info": "Shigeo Kageyama is an average middle school boy, nicknamed Mob, he is a powerful esper with immense psychic power. To keep from losing control of this power, he constantly lives a life under an emotional shackle.",
             "genre": "Action, comedy, supernatural",
             "rating": "3.8/5",
-            "img": "img/mob.png",
+            "img": "https://wallpapercave.com/wp/wp1959335.png",
             "class": "mob"
         },
         {
@@ -69,7 +77,7 @@
             "info": "Junior high school student—Shōyō Hinata—gains a sudden love of volleyball after seeing a game on television. Although short in height, he becomes determined to be like his favourite player, nicknamed the Little Giant, after seeing his plays.",
             "genre": "Comedy, coming-of-age, sports",
             "rating": "4/5",
-            "img": "img/haikyu.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/d/9/b/1082048-large-haikyu-wallpapers-1920x1080-download.jpg",
             "class": "haikyu"
         },
         {
@@ -77,7 +85,7 @@
             "info": "The story follows Ken Kaneki, a half ghoul who tries surviving world of ghouls.",
             "genre": "Dark fantasy, horror, thriller",
             "rating": "4.6/5",
-            "img": "img/ghoul.jpeg",
+            "img": "http://getwallpapers.com/wallpaper/full/1/2/8/129299.jpg",
             "class": "ghoul"
         },
         {
@@ -85,7 +93,7 @@
             "info": "The story follows Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered and his younger sister Nezuko is turned into a demon.",
             "genre": "Adventure, dark fantasy, martial arts",
             "rating": "4.2/5",
-            "img": "img/demon-slayor.jpeg",
+            "img": "https://wallpapercave.com/wp/wp5206291.png",
             "class": "slayor"
         },
         {
@@ -93,8 +101,232 @@
             "info": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!",
             "genre": "fantasy",
             "rating": "4.5/5",
-            "img": "img/slime.jpeg",
+            "img": "https://wallpapercave.com/wp/wp6812119.jpg",
             "class": "slime"
+        },
+        {
+            "title": "The Promise Neverland",
+            "info": "Norman, Emma, and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as Mama, all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn- what more could an orphan ask for? One day, though, Emma and Norman uncover the dark and twisted truth of the outside world they are forbidden from seeing. Soon, they must make haste to plan their escape!",
+            "genre": "Dark Fantasy, Science fiction, Thriller",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp3951101.png",
+            "class": "neverland"
+        },
+        {
+            "title": "Erased",
+            "info": "The story follows Satoru Fujinuma, a young man living in Chiba who somehow possesses an ability known as Revival, which sends him back in time moments before a life-threatening incident, enabling him to prevent it from happening again. When his mother is murdered by an unknown assailant in his own home, Satoru's ability suddenly sends him back eighteen years into the past.",
+            "genre": "Mystery, thriller",
+            "rating": "4.5/5",
+            "img": "http://getwallpapers.com/wallpaper/full/2/3/4/32694.jpg",
+            "class": "erased"
+        },
+        {
+            "title": "The Seven Deadly Sins",
+            "info": "The Seven Deadly Sins were the strongest and cruelest order of Holy Knights in the Kingdom of Liones. They were formed by seven brutal criminals, who had all been convicted for grievous crimes and had carved the symbols of seven beasts onto their bodies. After having been framed for murdering the Great Holy Knight, they were indefinitely disbanded, as well as branded as traitors and villains.",
+            "genre": "Adventure, fantasy",
+            "rating": "4.5/5",
+            "img": "https://wallpapercave.com/wp/wp2523760.jpg",
+            "class": "sins"
+        },
+        {
+            "title": "Hunter X Hunter",
+            "info": "Hunter × Hunter tells the story of a young 12 year old boy named Gon. He goes on a journey to find his Father who left him under the care of his Aunt Mito. He wants to know the reason why he left him and instead preferred to be a Hunter.",
+            "genre": "Adventure, Fantasy, Martial Arts",
+            "rating": "4.8/5",
+            "img": "https://wallpapercave.com/wp/wp1859930.jpg",
+            "class": "hxh"
+        },
+        {
+            "title": "Black Clover",
+            "info": "Asta is a young boy who dreams of becoming the greatest mage in the kingdom. He only has one problem, he can't use magic. Luckily for Asta, he receives the incredibly rare five-leaf clover grimoire that gives him the power of anti-magic. Even though he can't use magic, he plans to become the Wizard King.",
+            "genre": "Adventure, Fantasy, Magic",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp6191424.jpg",
+            "class": "clover"
+        },
+        {
+            "title": "Stiens;Gate",
+            "info": "Steins;Gate is set in the summer of 2010, approximately one year after the events that took place in Chaos;Head, in Akihabara. Rintarō Okabe attends a conference on time machines when he discovers the bloody remains of Kurisu Makise, a renowned researcher whom he met earlier. Following this incident, Rintarō experiences various unusual events, leading up to his urge to test a machine he created to apparently travel back in time.",
+            "genre": "Science fiction, Pychological thriller",
+            "rating": "5/5",
+            "img": "http://getwallpapers.com/wallpaper/full/9/2/7/16633.jpg",
+            "class": "gate"
+        },
+        {
+            "title": "Bleach",
+            "info": "Bleach follows the adventures of Ichigo Kurosaki, a high school student with the ability to see ghosts. The early parts of the story focus mainly on the Human characters, but as events unfold, the story begins to delve deeper into the world of the Shinigami and their foes.",
+            "genre": "Adventure, Supernatural",
+            "rating": "4.5/5",
+            "img": "http://getwallpapers.com/wallpaper/full/b/f/2/71990.jpg",
+            "class": "bleach"
+        },
+        {
+            "title": "Vinland Saga",
+            "info": "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father.",
+            "genre": "Adventure, Historical",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp4585072.jpg",
+            "class": "saga"
+        },
+        {
+            "title": "Assassination Classroom",
+            "info": "Earth is left in jeopardy after an immensely powerful tentacled organism suddenly appears and destroys 70% of the Moon, leaving it permanently in the shape of a crescent. The organism claims that within a year he will destroy the planet next, but offers mankind a chance to avert this fate. In class 3-E, the End Class of Kunugigaoka Junior High School, he starts working as a homeroom teacher where he teaches his students regular subjects, as well as the ways of assassination",
+            "genre": "Action, Comedy",
+            "rating": "4/5",
+            "img": "http://getwallpapers.com/wallpaper/full/5/a/1/27236.jpg",
+            "class": "classroom"
+        },
+        {
+            "title": "The Disastrous Life Of Saikik",
+            "info": "Kusuo Saiki is a typical 16-year-old high school student… except he has psychic powers. He can use them to get whatever he wants, but he also knows everything that people are thinking. Everything. No surprises, no secrets, no normal human experiences. He's kept his powers in check since childhood, but with the temptations of high school now on his mind, he's bending the rules—and spoons.",
+            "genre": "Comedy, Supernatural",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp3192547.jpg",
+            "class": "saikik"
+        },
+        {
+            "title": "Devilman Crybaby",
+            "info": "Akira Fudo learns from his best friend Ryo Asuka that demons will revive and reclaim the world from humans. With humans hopeless against this threat, Ryo suggests combining with a demon. With this, Akira becomes Devilman, a being with the power of demon but with a human heart.",
+            "genre": "Action, Dark, Fantasy",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp3539589.png",
+            "class": "devilman"
+        },
+        {
+            "title": "Fate/Zero",
+            "info": "Fate/Zero takes place 10 years prior to the events of Fate/stay night, detailing the events of the Fourth Holy Grail War in Fuyuki City[1]. Originally founded by the Einzbern, Tohsaka, and Matou families, the war involves seven Masters and seven Servants under seven classes: Saber, Lancer, Archer, Rider, Caster, Assassin and Berserker.",
+            "genre": "Action, Dark, Fantasy",
+            "rating": "4/5",
+            "img": "http://getwallpapers.com/wallpaper/full/b/1/e/63585.jpg",
+            "class": "fate"
+        },
+        {
+            "title": "Spirited Away",
+            "info": "Ten-year-old Chihiro Ogino and her parents are traveling to their new home when her father takes a wrong turn. The family enters a magical world. Chihiro finds an exquisite bathhouse. Chihiro discovers too late that her parents have turned into pigs and she is unable to cross the flooded river, becoming trapped in the spirit world.",
+            "genre": "Fantasy, Supernatural, Adventure",
+            "rating": "4.5/5",
+            "img": "http://getwallpapers.com/wallpaper/full/d/6/e/120441.jpg",
+            "class": "spirit"
+        },
+        {
+            "title": "Baki",
+            "info": "The protagonist, Baki Hanma, trains with an intense focus to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world. Five of the world's most violent and brutal death row inmates are gathering to face Baki. Their objective is to taste defeat - their unmatched strength and skill have led them to grow bored of life itself, and they now seek out Baki",
+            "genre": "Action, Martial Arts",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp4213171.jpg",
+            "class": "baki"
+        },
+        {
+            "title": "Kengan Ashura",
+            "info": "Since the Edo periods of Japan, gladiator arenas exist in certain areas. In these arenas, wealthy business owners and merchants hire gladiators to fight in unarmed combat where winner takes all. Tokita Ohma, nicknamed Ashura, joins these arenas and devastates his opponents. His spectacular ability to crush his enemies catches the attention of the big business owners, including the Nogi Group CEO, Nogi Hideki.",
+            "genre": "Martial arts, Action",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp4588834.jpg",
+            "class": "kengan"
+        },
+        {
+            "title": "Goblin Slayer",
+            "info": "Goblin Slayer is the series' titular main character. He is an experienced silver-ranked adventurer who only concerns himself with hunting goblins",
+            "genre": "Dark, Fantasy",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp3752190.png",
+            "class": "goblin"
+        },
+        {
+            "title": "Great Pretender",
+            "info": "Makoto Edamura is the self-proclaimed Japan's greatest swindler. Together with his partner Kudo, they try to trick a Frenchman in Asakusa but unexpectedly get tricked instead. The Frenchman, whom they tried to swindle, turns out to be Laurent Thierry—a much higher-level confidence man, in control of the mafia. Edamura is yet to find out what fate awaits him, after having engaged in the Frenchman's dirty jobs...!",
+            "genre": "Comedy, Crime",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp7295900.jpg",
+            "class": "pretender"
+        },
+        {
+            "title": "Fairy Tail",
+            "info": "Lucy Heartfilia, a traveling Mage, meets Natsu Dragneel, a Mage looking for his foster parent, a Dragon named Igneel, with his best friend, Happy, a blue, talking and flying cat. Shortly after their meeting, Lucy is abducted to be sold as a slave. Natsu rescues her and reveals that he is the real Salamander of Fairy Tail and has the skills of a Dragon Slayer, a form of Lost Magic",
+            "genre": "Adventure, fantasy",
+            "rating": "4.5/5",
+            "img": "http://getwallpapers.com/wallpaper/full/d/f/7/597973.jpg",
+            "class": "fairy"
+        },
+        {
+            "title": "Toradora!",
+            "info": "Toradora! revolves around Ryuuji Takasu, despite his gentle personality, his eyes make him look like an intimidating delinquent. On his second high school year put him together with his hidden crush, Minori Kushieda. Taiga's delicate appearance contrasts with her brutal personality. Ryuuji finds out that Taiga has a secret crush on Kitamura and Taiga agrees to help Ryuuji with his love interest as long as he helps her get closer to hers.",
+            "genre": "Romantic comedy",
+            "rating": "3.5/5",
+            "img": "https://wallpapercave.com/wp/wp4947557.png",
+            "class": "toradora"
+        },
+        {
+            "title": "Teasing Master Takagai-san",
+            "info": "If you blush, you lose. Living by this principle, the middle schooler Nishikata gets constantly made fun of by his seat neighbor Takagi-san. With his pride shattered to pieces, he vows to turn the tables and get back at her some day. And so, he attempts to tease her day after day, only to find himself victim to Takagi-san's ridicule again sooner than later. Will he be able to make Takagi-san blush from embarrassment even once in the end?",
+            "genre": "Romentic comedy",
+            "rating": "3.5/5",
+            "img": "https://wallpapercave.com/wp/wp4585404.jpg",
+            "class": "takagai"
+        },
+        {
+            "title": "A Silent Voice",
+            "info": "The movie chronicles the emotional, social, and spiritual attributes that are manifested by a group of adolescent schoolmates in elementary school, especially as to how they relate to a hearing impaired girl that is introduced into their group. Each teen reacts to the newcomer in a different way, including many varied and negative reactions and outcomes.",
+            "genre": "drama",
+            "rating": "4/5",
+            "img": "http://getwallpapers.com/wallpaper/full/9/2/6/950266-download-a-silent-voice-wallpapers-2200x1237-laptop.jpg",
+            "class": "voice"
+        },
+        {
+            "title": "Your Name",
+            "info": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.",
+            "genre": "Drama, Fantasy",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp1892089.jpg",
+            "class": "name"
+        },
+        {
+            "title": "The Whisker Away",
+            "info": "Miyo Sasaki, nicknamed Muge meaning infinitely mysterious, has a bright personality and is full of energy at school and at home. She is also in love with her classmate Kento Hinode. Miyo tries repeatedly to get Kento's attention, but he takes no notice of her. She realizes that the only way to get close to him is to transform into a cat, but at some point, the boundary between herself and the cat becomes ambiguous.",
+            "genre": "Adventure, Family",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp6715558.jpg",
+            "class": "whisker"
+        },
+        {
+            "title": "Sword Art Online",
+            "info": "In the year 2022, thousands of people get trapped in a new virtual MMORPG and the lone wolf player, Kirito, works to escape.",
+            "genre": "Action, Adventure",
+            "rating": "3.5/5",
+            "img": "http://getwallpapers.com/wallpaper/full/8/0/4/46520.jpg",
+            "class": "sao"
+        },
+        {
+            "title": "High School DXD",
+            "info": "fter being killed on his first date, idiotic and perverted Issei Hyodo is resurrected as a demon by Rias Gremory only to be recruited into her club of high-class devils.",
+            "genre": "Adult, Action, Comedy",
+            "rating": "3.5/5",
+            "img": "https://wallpapercave.com/wp/wp1812974.jpg",
+            "class": "dxd"
+        },
+        {
+            "title": "Japan Sink",
+            "info": "An ordinary family is put to the test as a series of massive earthquakes throw Japan into total mayhem. From director Masaaki Yuasa (Devilman Crybaby), the first anime adaptation of the bestselling science fiction novel by Sakyo Komatsu.",
+            "genre": "Adventure, Drama",
+            "rating": "3.5/5",
+            "img": "https://wallpapercave.com/wp/wp7359908.jpg",
+            "class": "sink"
+        },
+        {
+            "title": "7 Seeds",
+            "info": "In particular was Project 7SEEDS, in which five sets of seven young men and women were carefully selected and placed into teams. Each participant was then put under cryogenic sleep in hopes of preserving the continued existence of mankind. When those men and women awoke, they found themselves suddenly thrust into a cruel world. While bereft and grieved over forever losing their loved ones, they sought to find ways to survive.",
+            "genre": "Action, Adventure",
+            "rating": "3.5/5",
+            "img": "https://wallpapercave.com/wp/wp6691545.jpg",
+            "class": "seeds"
+        },
+        {
+            "title": "Akame Ga Kill",
+            "info": "A countryside boy named Tatsumi sets out on a journey to The Capital to make a name for himself and met a seemingly dangerous group of Assassins known as Night Raid. Their journey begins.",
+            "genre": "Adventure, Action, Comedy",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp1811258.jpg",
+            "class": "gaKill"
         }
     ]
 }
