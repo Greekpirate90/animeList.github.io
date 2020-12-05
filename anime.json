@@ -327,6 +327,86 @@
             "rating": "4/5",
             "img": "https://wallpapercave.com/wp/wp1811258.jpg",
             "class": "gaKill"
+        },
+        {
+            "title": "Dr.Stone",
+            "info": "After a cataclysm causes everyone in the world to turn to stone, two boys' awaken, and struggle to revive humanity. This epic struggle quickly turns into a fight between Science and Might - and who, exactly, deserves to be revived.",
+            "genre": "Adventure, Post Apocalyptic, Science Fiction",
+            "rating": "4.5/5",
+            "img": "https://wallpapercave.com/wp/wp4410476.jpg",
+            "class": "drStone"
+        },
+        {
+            "title": "Cowboy Bebop",
+            "info": "The futuristic misadventures and tragedies of an easygoing bounty hunter and his partners.",
+            "genre": "Action, Adventure",
+            "rating": "4.5/5",
+            "img": "https://wallpapercave.com/wp/CJmLRw4.jpg",
+            "class": "bebop"
+        },
+        {
+            "title": "Fire Force",
+            "info": "Shinra Kusakabe is a third generation pyrokinetic youth who gained the nickname Devil's Footprints for his ability to ignite his feet at will. He joins Special Fire Force Company 8, which features other pyrokinetics who dedicated themselves to ending the Infernal attacks for good while investigating Companies 1 through 7 for potential corruption in their ranks.",
+            "genre": "Adventure, Dark Fantasy, Science Fiction",
+            "rating": "4.3/5",
+            "img": "https://wallpapercave.com/wp/wp4437189.png",
+            "class": "fireForce"
+        },
+        {
+            "title": "Parasyte - The Maxim",
+            "info": "17-year-old Shinichi Izumi is partially infected by a Parasyte; monsters that butcher and consume humans. He must learn to co-exist with the creature if he is to survive both the life of a Parasyte and human, as part monster, part person.",
+            "genre": "Thriller, Horror, Science Fiction",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp1975863.png",
+            "class": "parasyte"
+        },
+        {
+            "title": "Another",
+            "info": "A young man named, Koichi Sakakibara, transfers to a new school where he finds himself drawn into a mystery involving a mysterious girl and a series of gruesome deaths.",
+            "genre": "Horror, Mystery, Supernatural",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp1833408.jpg",
+            "class": "another"
+        },
+        {
+            "title": "Classroom of the elite",
+            "info": "Our protagonist is Kiyotaka Ayanokōji, a quiet, unassuming boy who is not good at making friends and would rather keep his distance. He is a student of D-Class, which is where the school dumps its inferior students in order to ridicule them. After meeting Suzune Horikita and Kikyō Kushida, two other students in his class, Kiyotaka's situation begins to change.",
+            "genre": "Psychological",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp3719809.jpg",
+            "class": "elite"
+        },
+        {
+            "title": "JoJo’s Bizzare adventure",
+            "info": "The story of the Joestar family, who are possessed with intense psychic strength, and the adventures each member encounters throughout their lives.",
+            "genre": "Action, Adventure",
+            "rating": "4/5",
+            "img": "https://wallpapercave.com/wp/wp5200164.png",
+            "class": "jojo"
+        },
+        {
+            "title": "Scissor Seven",
+            "info": "Seven is a young amnesiac who becomes an assassin in order to make enough money to travel to Stan, a technologically advanced country where they can help him recover his memories. Apparently, his past is connected to the mysterious Killer League.",
+            "genre": "Comedy, Action",
+            "rating": "3/5",
+            "img": "https://wallpapercave.com/wp/wp5968857.jpg",
+            "class": "scissor"
+        },
+        {
+            "title": "Haven’t You Heard I’m Sakamoto",
+            "info": "Sakamoto is a genius who is well liked by both girls and boys. Despite the strange situations he may be in, Sakamoto always manages to fix the problem in absolute perfection while still being over the top.",
+            "genre": "Comedy",
+            "rating": "3/5",
+            "img": "https://wallpapercave.com/wp/wp6890195.png",
+            "class": "sakamoto"
+        },
+        {
+            "title": "How Heavy Are the Dumbbells You Lift?",
+            "info": "Sakura Hibiki is your average high school girl, with a voracious appetite. Noticing her  slowly expanding waistline she decides to look into enrolling in the nearby gym. There she start her quest to a great body.",
+            "genre": "Comedy, Sports",
+            "rating": "3/5",
+            "img": "https://wallpapercave.com/wp/wp7705218.jpg",
+            "class": "dumbbells"
         }
     ]
 }
