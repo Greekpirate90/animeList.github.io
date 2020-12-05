@@ -487,8 +487,83 @@ img {
     box-shadow: inset 0 0 3em #111;
 }
 
+/* Dr Stone */
+
+.drStone {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(0, 204, 255), rgb(17, 0, 255));
+}
+
+/* Cowboy Bebop */
+
+.bebop {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(16, 141, 58), rgb(0, 91, 88));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Fire Force */
+
+.fireForce {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 102, 0), rgb(255, 238, 0));
+}
+
+/* Parasyte */
+
+.parasyte {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(249, 119, 149), rgb(97, 20, 37));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Another */
+
+.another {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(56, 0, 0));
+}
+
+/* Classroom of the elite */
+
+.elite {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(48, 116, 102), rgb(23, 108, 132));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* JoJo’s Bizzare adventure */
+
+.jojo {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(255, 0, 134), rgb(255, 115, 243));
+}
+
+/* Scissor Seven */
+
+.scissor {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(105, 238, 218), rgb(79, 151, 188));
+    box-shadow: inset 0 0 3em #111;
+}
+
+/* Haven’t You Heard I’m Sakamoto */
+
+.sakamoto {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(0, 228, 198), rgb(0, 86, 97));
+}
+
+/* How Heavy Are the Dumbbells You Lift? */
+
+.dumbbells {
+    padding: 2rem;
+    background-image: linear-gradient(rgb(1, 77, 148), rgb(0, 240, 168));
+    box-shadow: inset 0 0 3em #111;
+}
+
 @media only screen and (max-width: 600px) {
     h1 {
       font-size: 3rem;
     }
-  }
+}
